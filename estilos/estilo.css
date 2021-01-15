@@ -85,6 +85,7 @@ nav {
     background-size: cover;
     background-position: top center;
     height: 100vh;
+	color: black;
 }
 /*********************** INTRO *******************************/
 #intro{
